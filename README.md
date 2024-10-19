@@ -26,10 +26,10 @@ I am passionate about creating efficient, scalable, and innovative software solu
 <h3>💻 GitHub Profile Stats</h3>
 <div style="display: flex;">
   <div style="padding-right: 0px;">
-    <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=umar-mahmood&theme=radical&count_private=true" />
+    <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Umar-Mahmood&theme=radical&count_private=true" />
   </div>
   <div style="padding-right: 0px;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-mahmood&layout=compact&theme=radical" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-Mahmood&layout=compact&theme=radical" />
   </div>
 </div>
 
