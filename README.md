@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/umar-mahmood)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+to+meet+you!;I+am+a+Software+Engineer;Tech+Enthusiast;Lover+of+Distributed+Systems+and+Networking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+to+meet+you!;I+am+a+Software+Engineer;Web Development;Distributed+Systems+and+Networking)](https://git.io/typing-svg)
 
 I am a passionate software engineer dedicated to building scalable and efficient systems. With a focus on distributed systems, networking, and low-level programming, I love tackling complex challenges and finding innovative solutions.
 
