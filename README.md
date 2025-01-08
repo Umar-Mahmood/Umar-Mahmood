@@ -29,17 +29,19 @@ I am a passionate software engineer dedicated to building scalable and efficient
 - 📚 **Golang**: Focusing on its use in system-level and backend development.
 - 📚 **Distributed Systems**: Learning concepts like microservices architecture and cloud-based deployments.
 - 📚 **Machine Learning & AI**: Exploring real-world applications of AI and its integration into systems.
+- 📚 **Networks and security**
 
 ## 📚 Books I'm Reading:
 
-- **Deep Work** by Cal Newport
-- **Designing Data-Intensive Applications** by Martin Kleppmann
-- **The Pragmatic Programmer** by Andrew Hunt and David Thomas
+- **5G System Design: Architectural and Functional Considerations and Long Term Research**
+
 
 - **Finished**:
   - **Clean Code** by Robert C. Martin
   - **The Lean Startup** by Eric Ries
   - **Atomic Habits** by James Clear
+  - **Computer Networking: A Top-Down Approach** by Jim Kurose
+  - **The Pragmatic Programmer** by Andrew Hunt and David Thomas
 
 ## 👨‍💻 Projects
 
