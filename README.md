@@ -1,16 +1,65 @@
-## Hi there 👋
-THis is a demo on how to use github as a public profile.... 
-<!--
-**Umar-Mahmood/Umar-Mahmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Umar Mahmood 👋
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/umahmood-bese24/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+to+meet+you!;I+am+a+Software+Engineer;Web+Development;Distributed+Systems+and+Networking)](https://git.io/typing-svg)
+
+I am a passionate software engineer dedicated to building scalable and efficient systems. With a focus on distributed systems, networking, and low-level programming, I love tackling complex challenges and finding innovative solutions.
+
+## I'm a Software Engineer and Tech Enthusiast!
+
+- 🖥️ Currently pursuing an MS/PhD at JNU, South Korea (Fully Funded).
+- 🖥️ I have professional experience working with **Ruby on Rails**, **React**, **Node.js**, **Golang**, and **MongoDB**.
+- 💼 I’ve worked on full-stack projects like **Survefy**, a survey generation platform using the MERN stack, and **Typesetter**, a text management application.
+- 🌱 I’m currently deep-diving into **Golang** and enhancing my knowledge in **distributed systems** and **networking**.
+- 🧑‍💻 I also have experience with **Rails 7**, building complex backends, integrating APIs, and deploying applications using **Vercel** and other cloud platforms.
+- 💡 I'm always eager to learn and explore new technologies, especially in areas like **machine learning**, **AI**, and **security**.
+
+## 🛠️ Skills & Technologies:
+
+- **Languages**: Ruby, JavaScript, Go, C, Python, SQL, NoSQL
+- **Frameworks**: Ruby on Rails, React, Next.js, Node.js, Express.js
+- **Databases**: PostgreSQL, MySQL, MongoDB
+- **Tools & Platforms**: Docker, Kubernetes, Vercel, Git, AdminJS, ActiveAdmin, Expo
+- **DevOps**: CI/CD, Docker, Kubernetes, Server management
+- **Cloud Services**: AWS, DigitalOcean, Vercel
+
+## 📝 Currently Learning:
+
+- 📚 **Golang**: Focusing on its use in system-level and backend development.
+- 📚 **Distributed Systems**: Learning concepts like microservices architecture and cloud-based deployments.
+- 📚 **Machine Learning & AI**: Exploring real-world applications of AI and its integration into systems.
+- 📚 **Networks and security**
+
+## 👨‍💻 Projects
+
+- **Survefy**: A MERN stack survey generation platform, offering customizable surveys with conditional logic and exportable forms via iframes.
+- **Typesetter**: A text management app built to manage complex content generation workflows.
+- **DeletedTable**: A React component that handles restoration of deleted documents, utilizing API integration for seamless interaction.
+- **Estimate System**: A React-based tool for managing project estimates, featuring dynamically generated tables, item checklists, and pricing calculations.
+
+## 🔗 Connect with me:
+
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Umar Mahmood | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
+
+## 💻 Languages and Tools I am Using:
+
+[<img align="left" alt="Ruby on Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />][website]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+
+<br />
+<br />
+
+---
+
+[website]: https://example.com
+[linkedin]: https://www.linkedin.com/in/umahmood-bese24/
